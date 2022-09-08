@@ -12,7 +12,7 @@ N/A
 ## Usage
 
 We can caompare the refactored code here and the origin code, and find out the differences.
-This provide us a rough idea to learn how to be more symantic in coding.
+This provide us a rough idea to learn how to be improve accessibility standards in coding.
 
 ## Credit
 The Original code (unrefactored) is in: 
