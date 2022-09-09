@@ -3,7 +3,11 @@
 ## Description
 
 This is the Coding Bootcamp Week1 Assignment.
-The main purpose of this assignment is to make the existing website more accessible.
+The main purpose of this assignment is to increase the existing website accessibility by:
+- changing to use semantic HTML elements
+- changing the HTML structure in logical way independent of styling and positioning
+- adding clear alt attributes into image element
+- updating a concise, descriptive title
 
 ## Installation
 
